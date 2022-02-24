@@ -1,0 +1,5 @@
+body{
+    background-image: url('fondo.jpg');
+    background-size: 600px;
+    backdrop-filter: brightness(0.3);
+}
